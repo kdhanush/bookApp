@@ -6,7 +6,10 @@ function App() {
     <div className="App">
       <div className="app_header">
         <h1>Book-App</h1>
+        <h1>Book-App</h1>
+        <h1>Book-App</h1>
       </div>
+    
       
     </div>
   );
